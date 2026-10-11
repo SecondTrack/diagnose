@@ -1,0 +1,65 @@
+// Diagnose — English (identity / base). Key = English source text.
+
+// Menu
+"Diagnostics" = "Diagnostics";
+"Display / Pixel" = "Display / Pixel";
+"Touch" = "Touch";
+"Sensors" = "Sensors";
+"CPU & RAM" = "CPU & RAM";
+"Storage" = "Storage";
+"Sound / Speaker" = "Sound / Speaker";
+"Microphone" = "Microphone";
+"Find dead & stuck pixels" = "Find dead & stuck pixels";
+"Dead zones & multitouch" = "Dead zones & multitouch";
+"Orientation, gyro, level" = "Orientation, gyro, level";
+"Load & benchmark" = "Load & benchmark";
+"Free/used & write speed" = "Free/used & write speed";
+"Frequencies & sweep" = "Frequencies & sweep";
+"Live level & recording" = "Live level & recording";
+
+// Display / Pixel
+"Red" = "Red";
+"Green" = "Green";
+"Blue" = "Blue";
+"White" = "White";
+"Black" = "Black";
+"Gray" = "Gray";
+"✕ Back" = "✕ Back";
+"%@  (%d/%d) — tap to cycle" = "%@  (%d/%d) — tap to cycle";
+"Swipe across the whole screen — gray cells = dead zones. Multiple fingers are shown." = "Swipe across the whole screen — gray cells = dead zones. Multiple fingers are shown.";
+"Reset" = "Reset";
+
+// Sensors
+"Acceleration (g)" = "Acceleration (g)";
+"Rotation rate (°/s)" = "Rotation rate (°/s)";
+"Tilt" = "Tilt";
+"Status" = "Status";
+"n/a" = "n/a";
+"level ✓" = "level ✓";
+"tilted" = "tilted";
+"no sensor" = "no sensor";
+
+// CPU & RAM
+"CPU load" = "CPU load";
+"RAM" = "RAM";
+"Benchmark" = "Benchmark";
+"Start benchmark" = "Start benchmark";
+"running…" = "running…";
+"%.2f s  (↓ = faster)" = "%.2f s  (↓ = faster)";
+
+// Storage
+"Used" = "Used";
+"Free" = "Free";
+"Total" = "Total";
+"Write" = "Write";
+"Read" = "Read";
+"Speed test (16 MB)" = "Speed test (16 MB)";
+"Error" = "Error";
+
+// Sound / Microphone
+"Plays test tones through the speaker. All clean & without crackle = ok." = "Plays test tones through the speaker. All clean & without crackle = ok.";
+"Sweep 20 Hz → 15 kHz" = "Sweep 20 Hz → 15 kHz";
+"Stop" = "Stop";
+"Sweep" = "Sweep";
+"Peak: %.0f dB" = "Peak: %.0f dB";
+"Speak or tap — the level must move. No reaction = microphone problem." = "Speak or tap — the level must move. No reaction = microphone problem.";

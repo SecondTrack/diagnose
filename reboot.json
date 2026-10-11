@@ -1,0 +1,16 @@
+{
+  "id": "diagnose",
+  "name": "Diagnose",
+  "short": "Geräte-Check in sieben Tests",
+  "category": "Werkzeuge",
+  "status": "da",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.diag",
+  "version": "0.1.0",
+  "repo": "SecondTrack/diagnose",
+  "requires": "",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}

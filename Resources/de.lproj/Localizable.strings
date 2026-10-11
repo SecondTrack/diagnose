@@ -1,0 +1,65 @@
+// Diagnose — Deutsch. Schlüssel = englischer Basistext.
+
+// Menü
+"Diagnostics" = "Diagnose";
+"Display / Pixel" = "Display / Pixel";
+"Touch" = "Touch";
+"Sensors" = "Sensoren";
+"CPU & RAM" = "CPU & RAM";
+"Storage" = "Speicher";
+"Sound / Speaker" = "Ton / Lautsprecher";
+"Microphone" = "Mikrofon";
+"Find dead & stuck pixels" = "Tote & hängende Pixel finden";
+"Dead zones & multitouch" = "Tote Zonen & Multitouch";
+"Orientation, gyro, level" = "Lage, Gyro, Wasserwaage";
+"Load & benchmark" = "Auslastung & Benchmark";
+"Free/used & write speed" = "Frei/belegt & Schreib-Speed";
+"Frequencies & sweep" = "Frequenzen & Sweep";
+"Live level & recording" = "Live-Pegel & Aufnahme";
+
+// Display / Pixel
+"Red" = "Rot";
+"Green" = "Grün";
+"Blue" = "Blau";
+"White" = "Weiß";
+"Black" = "Schwarz";
+"Gray" = "Grau";
+"✕ Back" = "✕ Zurück";
+"%@  (%d/%d) — tap to cycle" = "%@  (%d/%d) — tippen zum Wechseln";
+"Swipe across the whole screen — gray cells = dead zones. Multiple fingers are shown." = "Fahr über den ganzen Screen — graue Felder = tote Zonen. Mehrere Finger werden angezeigt.";
+"Reset" = "Zurücksetzen";
+
+// Sensoren
+"Acceleration (g)" = "Beschleunigung (g)";
+"Rotation rate (°/s)" = "Drehrate (°/s)";
+"Tilt" = "Neigung";
+"Status" = "Status";
+"n/a" = "n/v";
+"level ✓" = "eben ✓";
+"tilted" = "geneigt";
+"no sensor" = "kein Sensor";
+
+// CPU & RAM
+"CPU load" = "CPU-Last";
+"RAM" = "RAM";
+"Benchmark" = "Benchmark";
+"Start benchmark" = "Benchmark starten";
+"running…" = "läuft…";
+"%.2f s  (↓ = faster)" = "%.2f s  (↓ = schneller)";
+
+// Speicher
+"Used" = "Belegt";
+"Free" = "Frei";
+"Total" = "Gesamt";
+"Write" = "Schreiben";
+"Read" = "Lesen";
+"Speed test (16 MB)" = "Speed-Test (16 MB)";
+"Error" = "Fehler";
+
+// Ton / Mikrofon
+"Plays test tones through the speaker. All clean & without crackle = ok." = "Spielt Testtöne über den Lautsprecher. Alle sauber & ohne Kratzen = ok.";
+"Sweep 20 Hz → 15 kHz" = "Sweep 20 Hz → 15 kHz";
+"Stop" = "Stop";
+"Sweep" = "Sweep";
+"Peak: %.0f dB" = "Spitze: %.0f dB";
+"Speak or tap — the level must move. No reaction = microphone problem." = "Sprich oder klopf — der Pegel muss ausschlagen. Reagiert nichts = Mikro-Problem.";
