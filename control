@@ -1,9 +1,0 @@
-Package: de.mesh.diag
-Name: Diagnose
-Version: 0.1.0
-Architecture: iphoneos-arm
-Description: Geraete-Testsuite - Display, Touch, Sensoren, CPU/RAM, Speicher, Ton, Mikrofon
-Maintainer: Second Track
-Author: Second Track
-Section: Utilities
-Depends: firmware (>= 6.0)
