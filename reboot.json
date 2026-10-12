@@ -1,8 +1,8 @@
 {
   "id": "diagnose",
-  "name": "Diagnose",
-  "short": "Geräte-Check in sieben Tests",
-  "category": "Werkzeuge",
+  "name": "Diagnostics",
+  "short": "Device check in seven tests",
+  "category": "Tools",
   "status": "da",
   "ios": [
     "6.1.6"
@@ -12,5 +12,29 @@
   "repo": "SecondTrack/diagnose",
   "requires": "",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.diag",
+  "text": "Display and pixels, touchscreen, sensors with spirit level, CPU & RAM, storage with speed test, speaker and microphone. Ideal before buying or selling.",
+  "features": [
+    "Display / pixels",
+    "Touch – dead zones and multitouch",
+    "Sensors with spirit level",
+    "CPU & RAM with benchmark",
+    "Storage with speed test",
+    "Speaker and microphone"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/diagnose/main/Resources/Icon@2x.png",
+  "private": false,
+  "name_de": "Diagnose",
+  "short_de": "Geräte-Check in sieben Tests",
+  "category_de": "Werkzeuge",
+  "text_de": "Display und Pixel, Touchscreen, Sensoren mit Wasserwaage, CPU & RAM, Speicher mit Speed-Test, Lautsprecher und Mikrofon. Ideal vor dem Kauf oder Verkauf.",
+  "features_de": [
+    "Display / Pixel",
+    "Touch – tote Zonen und Multitouch",
+    "Sensoren mit Wasserwaage",
+    "CPU & RAM mit Benchmark",
+    "Speicher mit Speed-Test",
+    "Lautsprecher und Mikrofon"
+  ]
 }
