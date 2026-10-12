@@ -1,6 +1,6 @@
 {
   "id": "diagnose",
-  "name": "Diagnostics",
+  "name": "Probe",
   "short": "Device check in seven tests",
   "category": "Tools",
   "status": "da",
@@ -8,7 +8,7 @@
     "6.1.6"
   ],
   "package": "de.mesh.diag",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repo": "SecondTrack/diagnose",
   "requires": "",
   "license": "GPL-3.0",
@@ -25,7 +25,7 @@
   ],
   "icon": "https://raw.githubusercontent.com/SecondTrack/diagnose/main/Resources/Icon@2x.png",
   "private": false,
-  "name_de": "Diagnose",
+  "name_de": "Probe",
   "short_de": "Geräte-Check in sieben Tests",
   "category_de": "Werkzeuge",
   "text_de": "Display und Pixel, Touchscreen, Sensoren mit Wasserwaage, CPU & RAM, Speicher mit Speed-Test, Lautsprecher und Mikrofon. Ideal vor dem Kauf oder Verkauf.",

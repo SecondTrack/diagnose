@@ -1,4 +1,4 @@
-# Diagnostics
+# Probe
 
 **Check a used iPod in five minutes – screen, touch, sensors, CPU, storage, speaker and mic.**
 
